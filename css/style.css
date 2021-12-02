@@ -506,7 +506,7 @@ border: #148c3a solid 7px;}
      background: #23262d;
      padding: 0px;
 	padding-top: 30px;
-	padding-bottom: 0px;
+	padding-bottom: -50px;
 }
 
 .about .titlepage h2 {
